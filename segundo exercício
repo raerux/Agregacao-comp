@@ -1,0 +1,1 @@
+Quando uma classe é declarada como final, ela não pode ser estendida (herdada) por nenhuma outra classe. E quando um atributo (variável) é declarado como final, seu valor só pode ser atribuído uma única vez. Após a inicialização, não é possível alterar seu valor.
