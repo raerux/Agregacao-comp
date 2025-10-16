@@ -1,0 +1,5 @@
+1. Não requer instância da classe
+2. Economia de memória
+3. Acesso direto e simplicidade
+4. Uso como métodos de fábrica (Factory Methods)
+5. Organização de código
