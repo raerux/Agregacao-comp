@@ -1,0 +1,8 @@
+Métodos da classe java.lang.Object:
+A classe Object é a superclasse de todas as classes em Java. Ela possui 11 métodos, dos quais destacamos mais dois além dos comumente conhecidos (equals(), hashCode(), toString()):
+
+1. getClass()
+Retorna o objeto Class que representa a classe do objeto em tempo de execução.
+
+2. clone()
+Cria e retorna uma cópia do objeto. O método é protected e requer que a classe implemente a interface Cloneable.
